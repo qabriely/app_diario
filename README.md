@@ -1,16 +1,21 @@
-# diario_cazador
+# App-Flutter
+Proyecto Aplicacion
 
-A new Flutter project.
+El Diario del Cazador
 
-## Getting Started
+El Diario del Cazador es una aplicación que va dedicada al universo de Bloodborne.
+Recopila información clave, de manera dinámica, representaciones gráficas y breves relatos.
 
-This project is a starting point for a Flutter application.
+Características:
+- Explora contenido sobre algunos jefes, personajes, armas y locaciones, basándose en
+en la historia y las conexiones entre los elementos del juego.
 
-A few resources to get you started if this is your first Flutter project:
+Tecnologías utilizadas:
+- Flutter
+- Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Realizado por: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gabriely Sonatore
+V- 29.680.132
+
